@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="150" src="https://www.danielmontesino.com/images/daniel.jpg" />
+  <img align="center" width="150" src="https://www.danielmontesino.com/images/daniel-img-radius.png" />
   <h3 align="center">¡Hola! 👋, soy Daniel 🚀👨‍💻</h3>
 </p>
 
